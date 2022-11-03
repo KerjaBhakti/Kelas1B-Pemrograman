@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Silkscreen|Poppins|Kelly Slab&effect=neon|outline|emboss|shadow-multiple">
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <title>Front Page</title>
+</head>
+<body>
+    <nav>
+    <div class="wrapper">
+            <div class="logo"><h2 class="font-effect-neon">Teknik Informatika</h2></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li>
+                        <div id="main">
+                            <span style="cursor:pointer" onclick="openNav()">&#9776; open</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="#">About</a>
+        <a href="https://gryzlegrizz.github.io/Bootstrap-Web/">E-Learning</a>
+        <a href="https://sip.ulbi.ac.id/siap/besan.depan.php">SIP ULBI</a>
+
+        <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn">Sosmed</button>
+            <div id="myDropdown" class="dropdown-content">
+                <a href="#">D41A</a>
+                <a href="#">D41B</a>
+                <a href="#">D3A</a>
+            </div>
+        </div>
+
+      </div>
+      
+      
+
+    <section id="home">
+        <div class="wrapper-home">
+            <div class="box">
+                <div class="container">
+                    <div class="btn-jdwl">
+                        <h2 class="font-effect-neon">JADWAL MATAKULIAH</h2>
+                        <div class="btnClass">
+                            <button><a href="">D4 Teknik Informatika 1A</a></button>
+                        </div>
+                        <div class="btnClass">
+                            <button><a href="">D4 Teknik Informatika 1B</a></button>
+                        </div>
+                        <div class="btnClass">
+                            <button><a href="">D3 Teknik Informatika 1A</a></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        
+
+    <script>
+        function openNav() {
+          document.getElementById("mySidenav").style.width = "350px";
+          document.getElementById("main").style.marginLeft = "250px";
+        }
+        
+        function closeNav() {
+          document.getElementById("mySidenav").style.width = "0";
+          document.getElementById("main").style.marginLeft= "0";
+        }
+    </script>
+    
+    <script>
+        function myFunction(){
+            document.getElementById("myDropdown").classList.toggle("show");
+        }
+
+        window.onclick = function(event){
+            if(!event.target.matches('.dropbtn')){
+                var dropdowns = document.getElementsByClassName("dropdown-content");
+                var i;
+                for (i = 0; i < dropdowns.length; i++){
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')){
+                        openDropdown.classList.remove('show');
+                    }
+                }
+            }
+        }
+    </script>
+
+
+
+
+    <!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+</body>
+</html>
