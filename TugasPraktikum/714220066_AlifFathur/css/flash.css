@@ -1,0 +1,123 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+  
+span::before {
+    content: "hlcynprjct";
+    animation: animate 4s;
+    padding-left: 0px;
+}
+  
+@keyframes animate {
+  
+    0% {
+        content: "mckdc";
+    }
+
+    5% {
+        content: "jkasx";
+    }
+
+    10% {
+        content: "atybx";
+    }
+
+    15% {
+        content: "gjyub";
+    }
+
+    20% {
+        content: "ysbgj";
+    }
+
+    25% {
+        content: "dvbjh";
+    }
+
+    30% {
+        content: "jkasx";
+    }
+
+    35% {
+        content: "atysx";
+    }
+
+    40% {
+        content: "gjyub";
+    }
+
+    45% {
+        content: "ysbgj";
+    }
+
+    50% {
+        content: "vchus";
+    }
+
+    55% {
+        content: "jksyx";
+    }
+
+    60% {
+        content: "atybx";
+    }
+
+    65% {
+        content: "gjyub";
+    }
+
+    70% {
+        content: "ysbgj";
+    }
+
+    75% {
+        content: "kshxa";
+    }
+
+    80% {
+        content: "coming";
+    }
+
+    82% {
+        content: "coming";
+    }
+
+    84% {
+        content: "coming";
+    }
+
+    86% {
+        content: "coming";
+    }
+
+    88% {
+        content: "coming";
+    }
+
+    90% {
+        content: "soon";
+    }
+
+    92% {
+        content: "soon";
+    }
+
+    94% {
+        content: "soon";
+    }
+
+    96% {
+        content: "soon";
+    }
+
+    98% {
+        content: "soon";
+    }
+
+    100% {
+        content: "soon";
+    }
+
+}
