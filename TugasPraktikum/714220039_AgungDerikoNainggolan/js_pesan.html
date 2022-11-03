@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width= , initial-scale=1.0">
+    <title>Tugas Pesan</title>
+</head>
+<body>
+    <h2>Pesan</h2>
+    <script lang="JavaScript">
+        var nama = window.prompt("Masukan nama anda","");
+
+        var nama_hari = new Array("Minggu" , "Senin" , "Selasa" , "Rabu" , "Kamis" , "Jumat" , "Sabtu");
+        var nama_bulan = new Array("January" , "February" , "Maret" , "April" , "Mei" , "Juni" , "July" , "Agustus" , "Sepetember" , "Oktobber" , "November" , "Desember");
+
+        var tanggal=new Date();
+        var hari=tanggal.getDay();
+        var tgl=tanggal.getDate();
+        var bln=tanggal.getMonth();
+        var thn=tanggal.getYear();
+
+        for(var i=0;i<=6;i++);
+        {
+            if (i==hari)
+            {
+                if ((i==0)||(i==6))
+                {
+                    var kegiatan="Berlibur";
+                }else
+                {
+                    var kegiatan="Bekerja";
+                }
+            }
+        }
+        document.write("<pre>")
+        document.write("Halo :"+nama+"<br>");
+        document.write("Hari ini adalah hari :" +nama_hari[hari]+ "," +tgl+ "," +nama_bulan[bln]+ "," +thn+ "<br>");
+        document.write("Waktunya untuk : " +kegiatan);
+        document.write("</pre>")
+
+    </script>
+</body>
+</html>
