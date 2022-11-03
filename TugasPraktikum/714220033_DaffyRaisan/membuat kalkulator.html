@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalkulator</title>
+</head>
+
+<body>
+    <center>
+    <form>
+        <label>Nilai Pertama
+            <input type="text" id="m_pertama" name=""><br />
+        </label>
+        <label>Nilai Kedua
+            <input type="text" id="m_kedua" name=""><br />
+    </form>
+    <input type="button" id="+" value="+" onclick="kalkulator(1);" name="">
+    <input type="button" id="-" value="-" onclick="kalkulator(2);" name="">
+    <input type="button" id="x" value="x" onclick="kalkulator(3);" name="">
+    <input type="button" id="/" value="/" onclick="kalkulator(4);" name="">
+    <script type="text/JavaScript">
+        function kalkulator(pilih){
+            var n1 = document.getElementById("m_pertama").value* 1;
+            var n2 = document.getElementById("m_kedua").value* 1;
+            var fhasil;
+            switch (pilih) {
+                case 1:
+                fhasil= n1 + n2;
+                    break;
+                case 2:
+                fhasil= n1 - n2;            
+                    break;
+                case 3:
+                fhasil= n1 * n2;
+                    break;
+                case 4:
+                    fhasil= n1 / n2;
+                    break;
+
+            }
+            document.getElementById("hasil").value = fhasil;
+        }
+    </script>
+    </label>
+    <label>Hasil
+        <input type="text" id="hasil" name="">
+    </label>
+</center>
+</body>
+</html>
