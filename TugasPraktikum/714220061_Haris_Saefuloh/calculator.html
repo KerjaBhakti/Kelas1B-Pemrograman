@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="calculator.css">
+    <script language="JavaScript" type="text/javascript">
+        function maths(){
+        var form = document.form1;
+        var x=eval(form.x.value);
+        var y=eval(form.y.value);
+        var pil= form.opt.value;
+        if (pil == "sum") {
+        var z = x + y;
+         }else if (pil == "sub") {
+        var z = x - y;
+         } else if (pil == "multi") {
+        var z = x * y;
+         } else if (pil == "distri") {
+        var z = x / y;
+         }
+         form.equal.value = z;
+         form.x.value = "";
+         form.y.value = "";
+        }
+        function reset(){
+        document.form1.reset();
+        }
+    </script>
+</head>
+<body>
+    <center>
+        <h1> CALCULATOR </h1>
+        <form name="form1" action="#">
+            <p>First Number : <input type="text" name="x" /></p>
+            <p>Second Number : <input type="text" name="y" /></p>
+            <p>Equal = <input type="text" name="equal" disabled="true" /></p>
+            <p>Operation <select name="opt"></p>
+                <option value="sum"> + </option>
+                <option value="sub"> - </option>
+                <option value="multi"> * </option>
+                <option value="distri"> / </option>
+            </select>
+            <input type="button" value="=" onClick="maths()" />
+            <input type="button" value="Clear" onClick="reset()" />
+         </form>
+    </center>
+</body>
+</html>
