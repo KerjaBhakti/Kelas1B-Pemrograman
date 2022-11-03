@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Kontrol Swith</title>
+</head>
+<body>
+<script language="JavaScript">
+
+	var a_m = window.prompt("Angka mutu [1-4] Matakuliah Basis Data ?","0");
+	var h_m = "X";
+	switch(parseInt(a_m))
+	{
+	case 0: h_m="E";
+			break;
+	case 1: h_m="D";
+			break;
+	case 2: h_m="12,56";
+			break;
+	case 3: h_m="B";
+			break;	
+	case 4: h_m="A";
+			break;
+	default:
+			h_m="Tidak dikenal !"
+	}
+	document.write("Angka Mutu "+ a_m +" = 2 adalah "+h_m);
+</script>												
+</body>
+</html>
