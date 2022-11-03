@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Object Text for input</title>
+</head>
+<body>
+    <script lang="JavaScript">
+        function eventClick(){
+            var ketstr = document.fForm.ket.value;
+            document.fForm.ketstr.value = ketstr;
+        }
+    </script>
+
+    <!-- Input form -->
+    <form name="fForm">
+        Input everything you want <br>
+        Input here : <br>
+        <textarea name="ket" cols="30" rows="10"></textarea><br>
+        <input type="button" value="Enter" onclick="eventClick()" />
+        <input type="reset" value="Reset" /><br><br>
+        Output : <br>
+        <textarea name="ketstr" cols="30" rows="10"></textarea>
+    </form>
+</body>
+</html
