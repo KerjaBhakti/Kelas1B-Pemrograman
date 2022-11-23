@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900');
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+    scroll-behavior: smooth;
+}
+
+.wrapper{
+    width: 100%;
+    margin: auto;
+    position: relative;
+    box-sizing: border-box;
+}
+
+nav{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    position: sticky;
+    top: 0;
+    background: #000;
+    z-index: 1;
+}
+
+.logo{
+    float: left;
+}
+
+.logo img{
+    width: 250px;
+}
+
+.menu{
+    float: right;
+    padding: 20px;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    float: right;
+}
+
+nav ul li a{
+    display: block;
+    padding: 8px;
+    color: white;
+    font-weight: 600;
+}
+
+nav ul li a:hover{
+    cursor: pointer;
+    border-bottom: solid orange;
+}
+
+#home img{
+    width: 100%;
+    border-bottom: solid black;
+}
+
+#profil h2{
+    padding: 20px 0 20px 50px;
+}
+
+.profil p{
+    padding-left: 25px;
+}
+
+.profil img{
+    width: 100%;
+}
+
+.wrapper2 h2{
+    padding: 20px 0 20px 50px;
+}
+
+.wrapper2 h2 a{
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.footer {
+    position: relative;
+    display: flex;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+#koleksi ul li img {
+    width: 50em;
+}
+
+#koleksi ul li{
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+
+#koleksi p{
+    text-align: center;
+    padding: 0 0 50px;
+    font-weight: 800;
+}
+
+form{
+    border: 3px solid #f1f1f1;
+}
+
+input[type=text], input[type=password]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button{
+    background-color: #04AA6D;
+    color: #fff;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover{
+    opacity: 0.8;
+}
