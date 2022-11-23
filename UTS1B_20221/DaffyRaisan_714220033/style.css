@@ -1,0 +1,201 @@
+*
+{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper
+{
+    width: 1200px;
+    margin: auto;
+    position: relative;
+}
+
+.logo
+{
+    font-size: 35px;
+    font-weight: 800;
+    float: left;
+    color: yellow;
+}
+
+.menu
+{
+    float: right;
+}
+
+nav
+{
+    background-color: black;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 80px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    border-bottom: 1;
+}
+
+nav ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li
+{
+    float: left;
+}
+
+nav ul li a
+{
+    color: yellow;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+}
+
+.welcome
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 10vh;
+    height: 100vh;
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fsman1ciparay.sch.id%2F&psig=AOvVaw2V2EipsdC4RAFVgtIrMWP9&ust=1669254253367000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDS9-eWw_sCFQAAAAAdAAAAABAr');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+}
+
+.btn
+{
+    background: black;
+    border-radius: 20px;
+    margin-top: 5px;
+    padding: 12px 60px 12px 60px;
+    color: yellow;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: large;
+}
+
+.btn:hover
+{
+    color: black;
+    background-color: yellow;
+    transition: 1s;
+}
+
+.pic1
+{
+    size: 60px;
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+.foto
+{
+    width: 70%;
+    position: relative;
+    border-radius: 5px;
+}
+
+#profile
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.deskripsi
+{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.deskripsi ul li a
+{
+    position: center;
+}
+
+.tengah
+{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 100px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    position: relative;
+    flex-wrap: wrap;
+    background-color: black;
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fsman1ciparay.sch.id%2F&psig=AOvVaw2V2EipsdC4RAFVgtIrMWP9&ust=1669254253367000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDS9-eWw_sCFQAAAAAdAAAAABAr');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-bottom: 100px;
+}
+
+.kolom
+{
+    width: 60%;
+    padding: 80px;
+    padding-bottom: 20px;
+    font-size: 25px;
+    color: black;
+    font-weight: 800;
+}
+
+.kolom h2
+{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.fa
+{
+    padding: 35px;
+    color: yellow;
+    padding-bottom: 80px;
+    font-size: 40px;
+}
+
+.tengah2
+{
+    text-align: center;
+    width: 100%;
+    padding-bottom: 100px;
+}
+
+.kolom2
+{
+    padding-top: 200px;
+    padding-bottom: 60px;
+    font-size: 25px;
+    color: black;
+    font-weight: 600;
+}
+
+.kolom2 h2
+{
+    font-size: 40px;
+    font-weight: 800;
+}
