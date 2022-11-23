@@ -1,0 +1,29 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.base{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans',sans-serif;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgarut60detik.com%2Fklb-kabupaten-garut-datangi-smkn-2-terkait-vedo-viralnya-arogansi-wakasek%2F&psig=AOvVaw12feh1hJgX3PGy5ct8SR1D&ust=1669255696861000&source=images&cd=vfe&ved=0CBAQjRxqGAoTCMiqkpmcw_sCFQAAAAAdAAAAABD6Ag);
+    background-attachment: fixed;
+    background-color: position; center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrapper{
+    width: 1100px;
+    margin: auto;
+    position: relative;
+}
+
+.logo{
+    font-size: 50px;
+    font-weight: 800px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+.menu

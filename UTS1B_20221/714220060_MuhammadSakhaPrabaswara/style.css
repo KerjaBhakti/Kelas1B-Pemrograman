@@ -1,0 +1,117 @@
+.wrapper{
+	width: 1100px;
+	margin: auto;
+	position: relative;
+}
+
+.logo {
+	font-size: 50px;
+	font-weight: 800px;
+	float: right;
+	font-family: 'Courier New',Courier,monospace;
+	color: crimson;
+}
+
+.menu {
+	float: left;
+}
+
+nav {
+	width: 100%;
+	margin: auto;
+	display: flex;
+	line-height: 80px;
+	position: absolute;
+	position: -webkit-sticky;
+	top: 0;
+	background: black;
+	z-index: 1;
+	border-bottom: 1px;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+nav ul li{
+	float: left;
+}
+
+nav ul li a {
+	color: royalblue;
+	font-weight: bold;
+	text-align: center;
+	padding: 0px 16px 0px 16px;
+	text-decoration: none;
+} 
+ 
+body{
+    margin: 0;
+    padding: 0;
+}    
+body{
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://img.freepik.com/free-vector/painted-mountain-view-landscape-illustration_53876-8134.jpg?w=740&t=st=1669168770~exp=1669169370~hmac=09b1c3347d6e46ead2001f17e35a0149a06194f1abb1a6e1c8aeee6a07710b0c);
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+h1{
+    font-family: arial black;
+    font-size: 50px;
+    color:white;
+    margin: 0px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+p.deskripsi {
+	font-family: arial black;
+    font-size: 50px;
+    color:white;
+	position: relative;
+	top: 100px;
+}
+
+ .dd img{
+  width: 400px;
+  height: 400px;
+  margin: 300px;
+ }
+ .wrapper img {
+	width: 500px;
+	height: auto;
+	position: relative;
+	top: 50px;
+	left: 300px;
+ }
+.wrapper2 p {
+	width: 500px;
+	height: auto;
+	position: relative;
+	top: 50px;
+	left: 500px;
+ }
+ .kolom img {
+    position: relative;
+	top: 150px;
+ }
+ .deskripsi {
+	position: relative;
+	top: 150px;
+ }
+.deskripsi p{
+	position: relative;
+	top: 150px;
+}
+p.deskripsi {
+	position: relative;
+	top: 150px;
+	font-size: 30px;
+	color: blue;
+}
