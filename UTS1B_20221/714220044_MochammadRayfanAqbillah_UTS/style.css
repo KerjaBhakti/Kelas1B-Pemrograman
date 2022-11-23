@@ -1,0 +1,136 @@
+*,html, body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.paralax{
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+}
+
+.intro{
+	background-image: url('https://sekolahalamindonesia.sch.id/wp-content/uploads/2019/12/slide-sl-1.jpg') ;
+}
+
+.isi{
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9KXOksGX7vDh1rX8SDCzfaD30IKealVbo_o2qyyP91yhJlmDTdq3UtiXkYKKWeaeU59g&usqp=CAU');
+}
+
+.wrapper{
+	width: 1100px;
+	margin: auto;
+	position: relative;
+}
+
+.logo{
+	font-size: 40px;
+	font-weight: 500px;
+	float: left;
+	font-family: 'Courier New',Courier,monospace;
+	color: white;
+}
+
+.menu{
+	font-family: arial;
+	float: right;
+	font-size: 15px;
+}
+
+nav{
+	width: 100%;
+	margin: auto;
+	display: flex;
+	line-height: 80px;
+	/*agar nav selalu tampil*/
+	position: sticky;
+	position: -webkit-stciky;
+	top: 0;
+	z-index: 1;
+	border-bottom: 1px;
+	background-color: green;
+	border-bottom: 0px solid #000000; 
+}
+
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	font-family: 'comic sans ms';
+	font-size: 20px;
+}
+
+nav ul li{
+	float: left;
+}
+
+nav ul li a{
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	padding: 0px 16px 0px 16px;
+	text-decoration: none;
+}
+
+.font-size{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	position: relative;
+	height: 90vh;
+}
+
+.font-style{
+	font-family: 'comic sans ms';
+	font-size: 50px;
+	color: white;
+    text-shadow: -6px 6px 6px #000;
+}
+
+.klik-profile{
+    font-weight: bold;
+    padding: 15px 15px 15px 15px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center
+}
+
+a.klik-profile{
+	background-color: green;
+	border-radius: 10px;
+	font-size: 20px;
+	color: white;
+}
+
+p.huruf{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 50px;
+	font-weight: bold;
+	font-family: 'comic sans ms';
+	color: white;
+	text-shadow: -4px 4px 4px #000;
+	height: 40vh;
+}
+
+p{
+	margin: 10px 0px 10px 0px;
+	padding: 10px 0px 10px 0px;
+    color: white;
+    text-align: center;
+    font-family: 'comic sans ms';
+    text-shadow:  -9px 9px 9px #000;
+    font-size: 20px;
+}

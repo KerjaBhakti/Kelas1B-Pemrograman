@@ -1,0 +1,155 @@
+a.navbar-brand {
+    color: white;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: white;
+}
+
+.imgbg {
+    background-image: url(https://images.alphacoders.com/691/691452.jpg);
+    min-height: 800px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav.navbar.navbar-expand-lg {
+    display: flex;
+	position: sticky;
+	position: -webkit -sticky;
+	top: 0;
+	z-index: 1;
+}
+
+.wrapper {
+    width: 1500px;
+	margin: auto;
+    margin-bottom: 950px;
+	position: relative;
+}
+
+h1.hometext {
+    color: white;
+    position: relative;
+    top: 250px;
+    text-shadow: 2px 2px 8px #00000077;
+}
+
+img.tk {
+    position: absolute;
+    border-radius: 50%;
+    width: 280px;
+}
+
+img.sd {
+    position: absolute;
+    left: 500px;
+    border-radius: 50%;
+    width: 280px;
+}
+
+img.lanjutan {
+    position: absolute;
+    left: 1000px;
+    border-radius: 50%;
+    width: 280px;
+}
+
+img.istc {
+    position: absolute;
+    top: 550px;
+    border-radius: 50%;
+    width: 280px;
+}
+
+h1.textkbtk {
+    position: absolute;
+    top: 300px;
+    left: 90px;
+    color: white;
+}
+
+h1.textsd {
+    position: absolute;
+    top: 300px;
+    left: 520px;
+    color: white;
+}
+
+h1.textlanjutan {
+    position: absolute;
+    top: 300px;
+    left: 990px;
+    color: white;
+}
+
+h1.textistc {
+    position: relative;
+    color: white;
+    top: 850px;
+    left: 90px;
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+form {border: 3px solid #f1f1f1;}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.avatar {
+  width: 40%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+}

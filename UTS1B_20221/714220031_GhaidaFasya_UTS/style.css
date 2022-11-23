@@ -1,0 +1,125 @@
+*,html,body{
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+/* untuk navbar */
+nav{
+    height: 10vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+
+.logo{
+    width: 20%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 3em;
+    color: white;
+}
+
+.menu{
+    width: 30%;
+}
+
+.menu ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.menu ul a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.menu ul a:hover{
+    color: aquamarine;
+}
+
+/* untuk home */
+.content-home{
+    display: flex;
+    padding: 20px;
+    /* untuk mengatur bagian paling atas */
+    padding-top: 5em;
+    margin: auto;
+    /* untuk mengatur text */
+    text-align: justify;
+}
+
+.deskripsi1{
+    align-items:flex-start;
+    display: flex;
+    flex-direction: column;
+    /* untuk mengatur jarak antara deskripsi dan image */
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 2em;
+}
+
+/* untuk tentang */
+.deskripsitentang{
+    align-items:flex-start;
+    display: flex;
+    flex-direction: column;
+    /* untuk mengatur jarak antara deskripsi dan image */
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+/* untuk galery */
+.content-galery{
+    display: flex;
+    padding: 20px;
+    /* untuk mengatur bagian paling atas */
+    padding-top: 5em;
+    margin: auto;
+    /* untuk mengatur text */
+    text-align: justify;
+}
+
+.deskripsi1{
+    align-items:flex-start;
+    display: flex;
+    flex-direction: column;
+    /* untuk mengatur jarak antara deskripsi dan image */
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+/* untuk footer */
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+.hubungi{
+    padding-bottom: .5em;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    gap: 1em;
+}
+
+.list a{
+    color: white;
+}
