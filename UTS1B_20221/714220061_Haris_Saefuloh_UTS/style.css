@@ -64,7 +64,33 @@ img.istc {
     width: 280px;
 }
 
-h1.texttk
+h1.textkbtk {
+    position: absolute;
+    top: 300px;
+    left: 90px;
+    color: white;
+}
+
+h1.textsd {
+    position: absolute;
+    top: 300px;
+    left: 520px;
+    color: white;
+}
+
+h1.textlanjutan {
+    position: absolute;
+    top: 300px;
+    left: 990px;
+    color: white;
+}
+
+h1.textistc {
+    position: relative;
+    color: white;
+    top: 850px;
+    left: 90px;
+}
 
 body {font-family: Arial, Helvetica, sans-serif;}
 form {border: 3px solid #f1f1f1;}
