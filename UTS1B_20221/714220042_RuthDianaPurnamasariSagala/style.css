@@ -1,0 +1,369 @@
+*
+{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper
+{
+    width: 1200px;
+    margin: auto;
+    position: relative;
+}
+
+.logo
+{
+   font-size: 35px;
+   font-weight: 800;
+   float: left;
+   color: rgb(250, 253, 255); 
+}
+
+.menu
+{
+    float: right;
+}
+
+nav
+{
+    background-color: rgb(56, 79, 124);
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 50px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    border-bottom: 1;
+}
+
+nav ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav ul li
+{
+    float: left;
+}
+
+nav ul li a
+{
+    color: #d7e2dd;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover
+{
+    text-decoration: underline;
+    color: bisque;
+    transition: 0.8s;
+}
+
+.welcome
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 10vh;
+    height: 100vh;
+    background-image: url('https://img.freepik.com/premium-photo/bird-dry-tree-branch-with-blue-sky_80375-1099.jpg?size=626&ext=jpg&uid=R81738270&ga=GA1.2.208507765.1665643629');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+.btn:hover
+{
+    color: #d2e3dc;
+    background-color: rgb(230, 217, 217);
+    transition: 1s;
+}
+
+.pic1
+{
+    padding-top: 100px;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    padding-bottom: 100px;
+}
+
+.pic1::before
+{
+    content: '';
+    position: absolute;
+    bottom: -50px;
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(to top, cadetblue, transparent);
+    right: 0px;
+}
+
+.foto
+{
+    width: 70%;
+    position: relative;
+    border-radius: 50%;
+}
+
+#tentangkami
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(187, 233, 233);
+}
+
+.pic1
+{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kolom
+{
+   width: 60%;
+   padding: 80px;
+   padding-bottom: 20px;
+   font-size: 25px;
+   color: #508a71;
+   font-weight: 800; 
+}
+
+.deskripsi
+{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.tengah
+{
+    text-align: center;
+    width: 100%;
+    background-color:rgb(186, 196, 201);
+    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fa8%2Fac%2F1a%2Fa8ac1a7ec9aa0c8f7aff2c433cd1350b.jpg&imgrefurl=https%3A%2F%2Fid.pinterest.com%2Famp%2Fpin%2F450360031491718175%2F&tbnid=nOFUiOr6pGOH8M&vet=12ahUKEwiR0vjwocP7AhWt_TgGHXf8DgUQMygfegUIARD9AQ..i&docid=v8wFrDvs9Sl1pM&w=1080&h=2339&q=pinterest&hl=id&ved=2ahUKEwiR0vjwocP7AhWt_TgGHXf8DgUQMygfegUIARD9AQ');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-bottom: 100px;
+}
+
+.tengah::after
+{
+    content: '';
+    position: absolute;
+    bottom: -955px;
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(to bottom, cadetblue, transparent);
+    right: 0px;
+}
+
+.listPendidikan
+{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 2em;
+    padding-bottom: 5em;
+}
+
+.logoPend
+{
+    width: 20%;
+    margin: 0 auto;
+}
+
+.logoPend img
+{
+    width: 80%;
+    border-radius: 20%;
+    box-shadow: 1px 10px 20px 0px rgba(0,0,0,0.65);
+    -webkit-box-shadow: 1px 10px 20px 0px rgba(0,0,0,0.65);
+    -moz-box-shadow: 1px 10px 20px 0px rgba(0,0,0,0.65);
+}
+
+.kolom2
+{
+    padding-top: 200px;
+    padding-bottom: 60px;
+    font-size: 25px;
+    color: #3a6351;
+    font-weight: 600;
+}
+
+.logoPend a
+{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.logoPend p
+{
+   color: #fff; 
+}
+
+.logoPend a:hover
+{
+    color: blue;
+    transition: 0.5s;
+
+}
+
+.tengah2
+{
+    text-align: center;
+    width: 100%;
+    background-color: cyan;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.tengah2:after
+{
+    content: '';
+    position: absolute;
+    bottom: -464vh;
+    width: 100%;
+    height: 70px;
+    background: black;
+    right: 0px;
+}
+
+.galery
+{
+    background: linear-gradient(to bottom, cyan, rgb(0, 0, 0));
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 2em;
+    padding-bottom: 5em;
+}
+
+.galery
+{
+    width: 100%;
+    margin: 0;
+}
+
+.galery img
+{
+    width: 13em;
+    padding: 12px 0;
+}
+
+
+.bar
+{
+    background: #f5f0bb;
+    margin-left: 25%;
+    display: block;
+    width: 50%;
+    height: 18px;
+    border: 2px solid cyan;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)
+}
+
+.bar span
+{
+    height: 18px;
+    float: left;
+    background: linear-gradient(to right, #3a6351, rgb(255, 0,98));
+}
+
+.bs1
+{
+    width: 100%;
+}
+
+.bs2 
+{
+    width: 100%;
+}
+
+.tengah3::before
+{
+    content: '';
+    position: absolute;
+    top: -177rem;
+    width: 100%;
+    height: 60px;
+    background: linear-gradient(to top, rgb(0, 15, 54), rgb(0,15, 54)90%);
+    right: 0px;
+}
+
+.tengah3
+{
+    text-align: center;
+    width: 100%;
+    background-color: rgb(207, 228, 228);
+    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fa8%2Fac%2F1a%2Fa8ac1a7ec9aa0c8f7aff2c433cd1350b.jpg&imgrefurl=https%3A%2F%2Fid.pinterest.com%2Famp%2Fpin%2F450360031491718175%2F&tbnid=nOFUiOr6pGOH8M&vet=12ahUKEwiR0vjwocP7AhWt_TgGHXf8DgUQMygfegUIARD9AQ..i&docid=v8wFrDvs9Sl1pM&w=1080&h=2339&q=pinterest&hl=id&ved=2ahUKEwiR0vjwocP7AhWt_TgGHXf8DgUQMygfegUIARD9AQ');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-bottom: 100px;
+}
+
+.kolom3
+{
+    padding-top: 200px;
+    padding-bottom: 60px;
+    font-size: 25px;
+    color: rgb(238, 234, 234);
+    font-weight: 600;
+}
+
+.kolom h2
+{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.fa 
+{
+    padding: 35px;
+    color: rgb(86, 148, 202);
+    padding-bottom: 80px;
+}
+
+.fa-Nama
+{
+   color: rgb(100, 83, 51);
+   transition: 1s;
+   text-decoration: underline; 
+}
+
+.fa-Passwoard
+{
+    color: rgb(90, 126, 90);
+    transition: 1s;
+    text-decoration: underline;
+}
