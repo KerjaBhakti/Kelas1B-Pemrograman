@@ -1,0 +1,91 @@
+*,html,body{
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+nav{
+    height: 10vh;
+    width: 100%;
+    background-color:#ADE792;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+
+.logo{
+    width: 40%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 3em;
+    font-size: 30px;
+}
+
+.menu{
+    width: 40%;
+}
+
+.menu ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.menu a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.menu ul a:hover{
+    color: blanchedalmond;
+}
+
+.home{
+    display: flex;
+    height: auto;
+    font-size: 30px;
+    padding: 20px;
+    padding-top: 1em;
+    margin: auto;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.gambar1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
+
+.gambar1 img{
+    width: 600%;
+}
+
+.deskripsi1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 5em;
+    padding-right: 3em;
+}
+
+.deskripsi1 p{
+    padding-right: 2em;
+    text-align: justify;
+}
+
+#profil{
+    display: flex;
+}
+
+.gambar2{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+
