@@ -1,0 +1,74 @@
+
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Open Sans', sans-serif;
+}
+.wrapper{
+	width: 1100px;
+	margin: auto;
+	position: relative;
+}
+.logo {
+	font-size: 40px;
+	font-weight: 800px;
+	float: left;
+	font-family: 'Courier New',Courier,monospace;
+	color: blue;
+}
+.menu {
+	float: right;
+}
+nav {
+	width: 100%;
+	margin: auto;
+	display: flex;
+	line-height: 80px;
+	/*agar nav selalu tampil*/
+	position: sticky;
+	position: -webkit -sticky;
+	top: 0;
+	background: cyan;
+	z-index: 1;
+	border-bottom: 1px;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+
+ }
+ nav ul li{
+	float: left;
+}
+nav ul li a {
+	color: deeppink;
+	font-weight: bold;
+	text-align: center;
+	padding: 0px 16px 0px 16px;
+	text-decoration: none;
+}
+nav ul li a:hover {
+	text-decoration: underline;
+}
+/* Style CSS tombol sign up*/
+.registerbtn {
+	background-color: #00ff33;
+	color: white;
+	padding: 16px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 50%;
+	opacity: 0.9;
+  }
+  
+  .registerbtn:hover {
+	opacity:1;
+  }
+  
+
+
+
