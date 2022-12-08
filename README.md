@@ -9,7 +9,7 @@ Roni (https://github.com/RoniAndarsyah)
 714220069 Galih Ramadhan
 
 ## Kelompok 2
-714220061 Haris Saefuloh <br>
+714220061 Haris Saefuloh (https://github.com/hrisz) <br>
 714220060 Muhammad Sakha Prabaswara
 
 ## Kelompok 3
