@@ -30,7 +30,7 @@ Roni (https://github.com/RoniAndarsyah)
 714220054 Devi Wulandari https://github.com/deviwlndr
 
 ## Kelompok 7
-714220052 Kresnanda Randyansyah <br>
+714220052 Kresnanda Randyansyah <br> https://github.com/kibointhehouse
 714220046 Gilang Andhika Buwana
 
 ## Kelompok 8
