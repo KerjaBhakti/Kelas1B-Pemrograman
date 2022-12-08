@@ -54,7 +54,7 @@ Roni (https://github.com/RoniAndarsyah)
 714220048 Alfian Benardo Rusli
 
 ## Kelompok 13
-714220038 Aditya Firmansyah Diasmara <br>
+714220038 Aditya Firmansyah Diasmara (https://github.com/AditWiBu69?tab=repositories) <br>
 714220013 Bargana Kukuh Raditya
 
 ## Kelompok 14
