@@ -18,7 +18,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 4
 714220039 Agung Deriko Nainggolan <br>
-714220050 Ariadiva Putri Bintang Maharani https://github.com/mhrndiva
+714220050 Ariadiva Putri Bintang Maharani https://github.com/mhrndiva?tab=repositories
 
 ## Kelompok 5
 714220059 Sultan Zathnani Tubagus <br>
@@ -27,10 +27,10 @@ Roni (https://github.com/RoniAndarsyah)
 ## Kelompok 6
 714220042 Ruth Diana Purnamasari Sagala <br>
 714220044 Mochammad Rayfan Aqbillah <br>
-714220054 Devi Wulandari https://github.com/deviwlndr
+714220054 Devi Wulandari
 
 ## Kelompok 7
-714220052 Kresnanda Randyansyah <br> https://github.com/kibointhehouse
+714220052 Kresnanda Randyansyah <br>
 714220046 Gilang Andhika Buwana
 
 ## Kelompok 8
@@ -42,8 +42,8 @@ Roni (https://github.com/RoniAndarsyah)
 714220031 Ghaida Fasya Yuthika Afifah https://github.com/ghaidafasya24
 
 ## Kelompok 10
-714220068 MARIANA SIREGAR <br> (https://github.com/annamariana18)
-714220023 Serli Pariela (https://github.com/serlip06?tab=repositories)
+714220068 MARIANA SIREGAR <br>
+714220023 Serli Pariela https://github.com/serlip06
 
 ## Kelompok 11
 714220066 Aliffathur Muhammad Revan <br>
