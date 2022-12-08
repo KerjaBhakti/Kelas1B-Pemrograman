@@ -1,8 +1,7 @@
 # Kelas1B-Pemrograman
 Repo ini digunakan untuk mengerjakan tugas praktikum dan Quis
 
-## UTS dan UAS juga
-Iya..
+## Copas Link Profil Github dibawah 
 
 ## Kelompok 1
 714220067 Muhammad Fadel Alamsyah <br>
@@ -26,7 +25,7 @@ Iya..
 
 ## Kelompok 6
 714220042 Ruth Diana Purnamasari Sagala <br>
-714220044 Mochammad Rayfan Aqbillah
+714220044 Mochammad Rayfan Aqbillah <br>
 714220054 Devi Wulandari
 
 ## Kelompok 7
