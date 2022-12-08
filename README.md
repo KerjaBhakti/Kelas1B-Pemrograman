@@ -51,7 +51,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 12
 714220063 Andika Muhammad Fatiha <br>
-714220048 Alfian Benardo Rusli
+714220048 Alfian Benardo Rusli (https://github.com/alfianbr16)
 
 ## Kelompok 13
 714220038 Aditya Firmansyah Diasmara <br>
