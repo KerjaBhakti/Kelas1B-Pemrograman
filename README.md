@@ -2,6 +2,7 @@
 Repo ini digunakan untuk mengerjakan tugas praktikum dan Quis
 
 ## Copas Link Profil Github dibawah 
+Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 1
 714220067 Muhammad Fadel Alamsyah <br>
