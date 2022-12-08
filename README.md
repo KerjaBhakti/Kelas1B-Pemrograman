@@ -18,7 +18,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 4
 714220039 Agung Deriko Nainggolan <br>
-714220050 Ariadiva Putri Bintang Maharani
+714220050 Ariadiva Putri Bintang Maharani https://github.com/mhrndiva?tab=repositories
 
 ## Kelompok 5
 714220059 Sultan Zathnani Tubagus <br>
@@ -51,7 +51,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 12
 714220063 Andika Muhammad Fatiha <br>
-714220048 Alfian Benardo Rusli (https://github.com/alfianbr16)
+714220048 Alfian Benardo Rusli
 
 ## Kelompok 13
 714220038 Aditya Firmansyah Diasmara <br>
