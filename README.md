@@ -31,7 +31,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 7
 714220052 Kresnanda Randyansyah <br> https://github.com/kibointhehouse
-714220046 Gilang Andhika Buwana
+714220046 Gilang Andhika Buwana https://github.com/gryzlegrizz/tugas-js
 
 ## Kelompok 8
 714220035 Irgi Achmad Fauzi <br>
