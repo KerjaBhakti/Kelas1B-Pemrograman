@@ -10,7 +10,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 2
 714220061 Haris Saefuloh (https://github.com/hrisz) <br>
-714220060 Muhammad Sakha Prabaswara
+714220060 Muhammad Sakha Prabaswara (https://github.com/Sakha31)
 
 ## Kelompok 3
 714220058 Muhammad Qinthar Sabilla Almaliki <br>
