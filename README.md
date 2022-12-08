@@ -42,7 +42,7 @@ Roni (https://github.com/RoniAndarsyah)
 714220031 Ghaida Fasya Yuthika Afifah https://github.com/ghaidafasya24
 
 ## Kelompok 10
-714220068 MARIANA SIREGAR <br>
+714220068 MARIANA SIREGAR <br> (https://github.com/annamariana18)
 714220023 Serli Pariela (https://github.com/serlip06?tab=repositories)
 
 ## Kelompok 11
