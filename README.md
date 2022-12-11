@@ -22,7 +22,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 5
 714220059 Sultan Zathnani Tubagus <br>
-714220043 Yoginara Pratama Sitorus
+714220043 Yoginara Pratama Sitorus (https://github.com/Yoginara)
 
 ## Kelompok 6
 714220042 Ruth Diana Purnamasari Sagala <br>
