@@ -58,7 +58,7 @@ Roni (https://github.com/RoniAndarsyah)
 714220013 Bargana Kukuh Raditya
 
 ## Kelompok 14
-714220033 Daffy Raisan Naufhal Kustiman <br>
+714220033 Daffy Raisan Naufhal Kustiman (https://github.com/xxfyxx) <br>
 714220030 Dzulkifli Faiz Nurmufid
 
 ## Kelompok 15
