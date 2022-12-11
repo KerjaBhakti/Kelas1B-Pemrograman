@@ -26,7 +26,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 6
 714220042 Ruth Diana Purnamasari Sagala <br>
-714220044 Mochammad Rayfan Aqbillah <br>
+714220044 Mochammad Rayfan Aqbillah (https://github.com/rayfanaqbil)
 714220054 Devi Wulandari https://github.com/deviwlndr
 
 ## Kelompok 7
