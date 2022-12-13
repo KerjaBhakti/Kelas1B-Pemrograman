@@ -59,7 +59,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 14
 714220033 Daffy Raisan Naufhal Kustiman (https://github.com/xxfyxx) <br>
-714220030 Dzulkifli Faiz Nurmufid
+714220030 Dzulkifli Faiz Nurmufid (https://github.com/jul003) (https://youtu.be/fmCRTWbVP_w)
 
 ## Kelompok 15
 714220040 Nida Sakina Aulia <br>
