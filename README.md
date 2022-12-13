@@ -14,7 +14,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 3
 714220058 Muhammad Qinthar Sabilla Almaliki <br>
-714220070 Revan Yuda Febriansyah
+714220070 Revan Yuda Febriansyah(https://github.com/Revan232)
 
 ## Kelompok 4
 714220039 Agung Deriko Nainggolan <br>
