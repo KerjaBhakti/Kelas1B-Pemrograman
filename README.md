@@ -13,7 +13,7 @@ Roni (https://github.com/RoniAndarsyah)
 714220060 Muhammad Sakha Prabaswara (https://github.com/Sakha31)
 
 ## Kelompok 3
-714220058 Muhammad Qinthar Sabilla Almaliki <br>
+714220058 Muhammad Qinthar Sabilla Almaliki <br> https://github.com/qintharganteng (https://youtu.be/1Md89vrf7bo)
 714220070 Revan Yuda Febriansyah(https://github.com/Revan232)
 
 ## Kelompok 4
