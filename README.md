@@ -43,7 +43,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 10
 714220068 MARIANA SIREGAR (https://github.com/annamariana18) <br>
-714220023 Serli Pariela (https://github.com/serlip06?tab=repositories)
+714220023 Serli Pariela https://github.com/serlip06(https://youtu.be/79i8RVTzOjk)
 
 ## Kelompok 11
 714220066 Aliffathur Muhammad Revan <br>
