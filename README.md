@@ -62,5 +62,5 @@ Roni (https://github.com/RoniAndarsyah)
 714220030 Dzulkifli Faiz Nurmufid (https://github.com/jul003) (https://youtu.be/fmCRTWbVP_w)
 
 ## Kelompok 15
-714220040 Nida Sakina Aulia https://youtu.be/7u_c2UG_oDY <br>
+714220040 Nida Sakina Aulia https://github.com/Nidasakinaa/reactjs.git (https://youtu.be/7u_c2UG_oDY) <br>
 714220062 Hammi Ahlan Abdulmujib(https://github.com/HammiAhlan?tab=repositories)
