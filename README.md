@@ -10,7 +10,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 2
 714220061 Haris Saefuloh (https://github.com/hrisz) (https://youtu.be/IMMeIfcWHDk)<br>
-714220060 Muhammad Sakha Prabaswara (https://github.com/Sakha31)
+714220060 Muhammad Sakha Prabaswara (https://github.com/Sakha31) (https://youtu.be/Nm9FwbYh94o)
 
 ## Kelompok 3
 714220058 Muhammad Qinthar Sabilla Almaliki <br> https://github.com/qintharganteng (https://youtu.be/1Md89vrf7bo)
