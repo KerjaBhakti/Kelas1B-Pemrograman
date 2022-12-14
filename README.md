@@ -25,7 +25,7 @@ Roni (https://github.com/RoniAndarsyah)
 714220043 Yoginara Pratama Sitorus (https://github.com/Yoginara)
 
 ## Kelompok 6
-714220042 Ruth Diana Purnamasari Sagala <br>
+714220042 Ruth Diana Purnamasari Sagala https://github.com/RuthDianaPurnamasari/reactjsRuth.git (https://youtu.be/-tsGJtI2ta4) <br>
 714220044 Mochammad Rayfan Aqbillah (https://github.com/rayfanaqbil) (https://youtu.be/2zoEHBdKkjE)<br>
 714220054 Devi Wulandari https://github.com/deviwlndr (https://youtu.be/Y6SRpdkz0SY)
 
