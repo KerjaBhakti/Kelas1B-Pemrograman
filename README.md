@@ -23,7 +23,7 @@ Roni (https://github.com/RoniAndarsyah)
 ## Kelompok 5
 714220059 Sultan Zathnani Tubagus (https://github.com/sltnzt13) 
 (https://youtu.be/0tnMNTbNV_8)<br>
-714220043 Yoginara Pratama Sitorus (https://github.com/Yoginara)
+714220043 Yoginara Pratama Sitorus (https://github.com/Yoginara) (https://youtu.be/jxBZdp_W4nI)
 
 ## Kelompok 6
 714220042 Ruth Diana Purnamasari Sagala https://github.com/RuthDianaPurnamasari/reactjsRuth.git (https://youtu.be/-tsGJtI2ta4) <br>
