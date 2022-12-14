@@ -34,7 +34,7 @@ Roni (https://github.com/RoniAndarsyah)
 714220046 Gilang Andhika Buwana https://github.com/gryzlegrizz/tugas-js (https://youtu.be/O3s_giMypu8)
 
 ## Kelompok 8
-714220035 Irgi Achmad Fauzi https://github.com/irgifauzi (https://youtu.be/DR0wzQnsqGw)<br> 
+714220035 Irgi Achmad Fauzi https://github.com/irgifauzi (https://youtu.be/0EwNN36xGJw)<br> 
 714220057 Faisal Rahmat
 
 ## Kelompok 9
