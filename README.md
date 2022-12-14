@@ -17,7 +17,7 @@ Roni (https://github.com/RoniAndarsyah)
 714220070 Revan Yuda Febriansyah(https://github.com/Revan232)
 
 ## Kelompok 4
-714220039 Agung Deriko Nainggolan <br>
+714220039 Agung Deriko Nainggolan (https://github.com/agung6544) (https://youtu.be/4kBMjmWffPM) <br>
 714220050 Ariadiva Putri Bintang Maharani https://github.com/mhrndiva (https://youtu.be/-0bW1I8X11g)
 
 ## Kelompok 5
