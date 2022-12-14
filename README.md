@@ -39,7 +39,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 9
 714220017 Arya Rizky Dwi Putra <br>
-714220031 Ghaida Fasya Yuthika Afifah https://github.com/ghaidafasya24
+714220031 Ghaida Fasya Yuthika Afifah https://github.com/ghaidafasya24 (https://youtu.be/e1lSx7DBnr4)
 
 ## Kelompok 10
 714220068 MARIANA SIREGAR (https://github.com/annamariana18) <br>
