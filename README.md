@@ -39,7 +39,7 @@ Roni (https://github.com/RoniAndarsyah)
 714220057 Faisal Rahmat
 
 ## Kelompok 9
-714220017 Arya Rizky Dwi Putra  https://github.com/skyforce2022 (https://youtu.be/4rv72PMHNBA)
+714220017 Arya Rizky Dwi Putra  (https://github.com/skyforce2022 (https://youtu.be/4rv72PMHNBA)
 714220031 Ghaida Fasya Yuthika Afifah https://github.com/ghaidafasya24 (https://youtu.be/e1lSx7DBnr4)
 
 ## Kelompok 10
