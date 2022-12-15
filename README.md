@@ -47,7 +47,7 @@ Roni (https://github.com/RoniAndarsyah)
 714220023 Serli Pariela https://github.com/serlip06 (https://youtu.be/79i8RVTzOjk)
 
 ## Kelompok 11
-714220066 Aliffathur Muhammad Revan <br>
+714220066 Aliffathur Muhammad Revan ● [First ReactJS Exercise](https://github.com/SchoolAF/react-testJS)  
 714220065 Muhamad Khairun Nashir
 
 ## Kelompok 12
