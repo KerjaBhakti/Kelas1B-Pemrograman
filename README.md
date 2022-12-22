@@ -36,7 +36,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 8
 714220035 Irgi Achmad Fauzi https://github.com/irgifauzi (https://youtu.be/0EwNN36xGJw)<br> 
-714220057 Faisal Rahmat
+714220057 Faisal Rahmat https://github.com/faisalrahmat28 <br>
 
 ## Kelompok 9
 714220017 Arya Rizky Dwi Putra  (https://github.com/skyforce2022) (https://www.youtube.com/watch?v=4rv72PMHNBA&t=138s)
