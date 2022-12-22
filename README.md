@@ -50,7 +50,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 11 - Shopping website (ex : shopee, tokped)
 714220066 Aliffathur Muhammad Revan ● https://github.com/orgs/SchoolAF/repositories    
-714220065 Muhamad Khairun Nashir
+714220065 Muhamad Khairun Nashir (https://github.com/shirennashir?tab=repositories)  
 
 ## Kelompok 12 -  jajanan nusantara
 714220063 Andika Muhammad Fatiha https://github.com/Irukainu <br>
