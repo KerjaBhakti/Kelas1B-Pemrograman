@@ -1,6 +1,8 @@
 # Kelas1B-Pemrograman
 Repo ini digunakan untuk mengerjakan tugas praktikum dan Quis
 
+# Jadwal Presentasi TB - (12-19 januari 23)
+
 ## Copas Link Profil Github dibawah 
 Roni (https://github.com/RoniAndarsyah)
 
