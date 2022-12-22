@@ -53,7 +53,7 @@ Roni (https://github.com/RoniAndarsyah)
 714220065 Muhamad Khairun Nashir
 
 ## Kelompok 12 -  jajanan nusantara
-714220063 Andika Muhammad Fatiha <br>
+714220063 Andika Muhammad Fatiha https://github.com/Irukainu <br>
 714220048 Alfian Benardo Rusli https://github.com/alfianbr16 (https://youtu.be/9j0IpPn2vtg)
 
 ## Kelompok 13 - website berita
