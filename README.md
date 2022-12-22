@@ -8,7 +8,7 @@ Roni (https://github.com/RoniAndarsyah)
 
 ## Kelompok 1 - website fashion
 714220067 Muhammad Fadel Alamsyah <br>
-714220069 Galih Ramadhan
+714220069 Galih Ramadhan (https://github.com/galihramadhan12345) <br>
 
 ## Kelompok 2 - Online Shop tokopedia
 714220061 Haris Saefuloh (https://github.com/hrisz) (https://youtu.be/IMMeIfcWHDk)<br>
